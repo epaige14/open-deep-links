@@ -11,5 +11,3 @@ function openDeepLink() {
         window.location.href = 'https://hcm41preview.sapsf.com/sf/learning';
     }, 500);
 }
-
-openDeepLink();
